@@ -1,6 +1,6 @@
-# Disability Assistance Mapping Project
+# User Map Display
 
-A Django-based web application for mapping and assisting people with disabilities. This project helps to visualize the location of disabled persons and categorize them by disability type, making it easier for support organizations to provide targeted assistance.
+A Django-based web application for mapping and assisting people with disabilities. This user-map-display helps to visualize the location of disabled persons and categorize them by disability type, making it easier for support organizations to provide targeted assistance.
 
 ## Features
 
